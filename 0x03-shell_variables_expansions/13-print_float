@@ -1,2 +1,2 @@
 #!/bin/bash
-print f '%.10f\n, $NUM
+printf '%.10f\n' $NUM
