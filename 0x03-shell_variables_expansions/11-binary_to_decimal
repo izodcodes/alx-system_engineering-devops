@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "obase=10;$BINARY" | bc
+echo -e "B2D[$BINARY]" 
